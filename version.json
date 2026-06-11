@@ -1,6 +1,1 @@
-{
-  "version": "1.2.0",
-  "url": "https://github.com/yoyiblessall-dotcom/yoyi-releases/releases/download/v1.2.0/yoyi_push.exe",
-  "sha256": "6207eb8d0ec1c52f0e743cab74b95498f3c4bd0d077cc63aceed6644e5119e61",
-  "changelog": "穩定性大幅提升：IG 改用 API、Threads 改用 API、加入自動重試與桌面通知"
-}
+{"changelog":"修復 Threads 發文失敗；改善 IG 發文進度顯示","url":"https://github.com/yoyiblessall-dotcom/yoyi-releases/releases/download/v1.2.1/yoyi_push.exe","version":"1.2.1","sha256":"bfa0c1fbc83bed4a4bcf4a4f65a85ce8c7b199a5a572e76df536c8d5b5bf7e9a"}
