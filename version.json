@@ -1,1 +1,1 @@
-{"version": "1.2.5", "url": "https://github.com/yoyiblessall-dotcom/yoyi-releases/releases/download/v1.2.5/yoyi_push.exe", "sha256": "7239bce77c072947608ea3d358c65aa30e76134c9178c23c54e650c7039353ed", "changelog": "v1.2.5 修復更新後重新啟動失敗的問題"}
+{"version": "1.2.6", "url": "https://github.com/yoyiblessall-dotcom/yoyi-releases/releases/download/v1.2.6/yoyi_push.exe", "sha256": "28d884b308e7332653fd0739213bfaa4949654811cbc21bc1005f13dd846faa8", "changelog": "v1.2.6 修復驗證確認頁面被關閉問題，更新後改為手動重啟"}
