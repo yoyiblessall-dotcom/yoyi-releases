@@ -1,1 +1,1 @@
-{"version": "1.2.8", "url": "https://github.com/yoyiblessall-dotcom/yoyi-releases/releases/download/v1.2.8/yoyi_push.exe", "sha256": "f4ab816a56b480be99e016ee4c695675cafceb942c07ee496ea81c97d61ab84e", "changelog": "v1.2.8 CAPTCHA 改為人工確認視窗，徹底解決確認頁面被關閉問題"}
+{"version": "1.2.9", "url": "https://github.com/yoyiblessall-dotcom/yoyi-releases/releases/download/v1.2.9/yoyi_push.exe", "sha256": "58da35f819dae1175bd5d39b3398bf4506ef2bb30f3db542e53c41370ad3045c", "changelog": "v1.2.9 修復 reCAPTCHA 完成後 Meta 轉跳頁被中斷的問題"}
