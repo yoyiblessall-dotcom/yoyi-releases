@@ -1,1 +1,1 @@
-{"version":"1.2.2","url":"https://github.com/yoyiblessall-dotcom/yoyi-releases/releases/download/v1.2.2/yoyi_push.exe","sha256":"e0883890c49eec1ea45d9068b5fb34457e6e56482daa5a2e77be5b68d705e67d","changelog":"v1.2.2 fix"}
+{"version":"1.2.3","url":"https://github.com/yoyiblessall-dotcom/yoyi-releases/releases/download/v1.2.3/yoyi_push.exe","sha256":"8647e7d53897e0ba104c190e148ac3cbd376c5922ca07fd259628c09a3bf6df3","changelog":"v1.2.3：修復機器人驗證無限迴圈"}
