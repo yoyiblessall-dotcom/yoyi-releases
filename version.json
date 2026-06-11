@@ -1,6 +1,6 @@
 {
-  "version": "1.3.2",
-  "url": "https://github.com/yoyiblessall-dotcom/yoyi-releases/releases/download/v1.3.2/yoyi_push.exe",
-  "sha256": "164ade920cc86066739ae9116931a43cf744a18f7ca106137cd1c760d2cc3b8e",
-  "changelog": "v1.3.2 自動使用您的 Chrome 帳號（不再需要每次手動登入 IG）：程式優先使用您真實的 Chrome 設定檔；若 Chrome 正在開啟中才使用獨立設定檔"
+  "version": "1.3.3",
+  "url": "https://github.com/yoyiblessall-dotcom/yoyi-releases/releases/download/v1.3.3/yoyi_push.exe",
+  "sha256": "c42453a331bf9021e5276611892087f30116f90778b2b410cf96cf5458beb1ff",
+  "changelog": "v1.3.3 新增 Chrome 人員帳號選擇：設定頁可選擇哪個 Chrome 人員帳號已登入 IG，程式自動用該帳號 Cookie 發文"
 }
