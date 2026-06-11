@@ -1,1 +1,1 @@
-{"version": "1.2.4", "url": "https://github.com/yoyiblessall-dotcom/yoyi-releases/releases/download/v1.2.4/yoyi_push.exe", "sha256": "6bed5fd819c5498ed8a6fcb2405a89883d046697c02bfb8c4319bca0e3dc19c3", "changelog": "v1.2.4 修復 CAPTCHA 驗證中途被中斷的問題，以及修復部分電腦無法啟動的 DLL 錯誤"}
+{"version": "1.2.5", "url": "https://github.com/yoyiblessall-dotcom/yoyi-releases/releases/download/v1.2.5/yoyi_push.exe", "sha256": "7239bce77c072947608ea3d358c65aa30e76134c9178c23c54e650c7039353ed", "changelog": "v1.2.5 修復更新後重新啟動失敗的問題"}
